@@ -35,7 +35,7 @@ public class CachingFreeMarkerServlet extends HttpServlet {
 
   @Override
   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-    Template template = configuration.getTemplate(request.getRequestURI().replace("/cache/", "/"));
+    Template template = configuration.getTemplate("hello-world.ftl");
     try {
       template.process(new HashMap(), response.getWriter());
     } catch (TemplateException e) {
