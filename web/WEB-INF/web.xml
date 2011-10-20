@@ -12,6 +12,10 @@
     <servlet-class>HelloWorldFreeMarkerServlet</servlet-class>
   </servlet>
   <servlet>
+    <servlet-name>localized-freemarker-servlet</servlet-name>
+    <servlet-class>LocalizedFreeMarkerServlet</servlet-class>
+  </servlet>
+  <servlet>
     <servlet-name>caching-freemarker-servlet</servlet-name>
     <servlet-class>CachingFreeMarkerServlet</servlet-class>
   </servlet>
@@ -31,6 +35,10 @@
   <servlet-mapping>
     <servlet-name>hello-world-freemarker-servlet</servlet-name>
     <url-pattern>/hw/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>localized-freemarker-servlet</servlet-name>
+    <url-pattern>/l10n/*</url-pattern>
   </servlet-mapping>
   <servlet-mapping>
     <servlet-name>caching-freemarker-servlet</servlet-name>

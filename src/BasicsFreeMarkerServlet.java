@@ -19,7 +19,7 @@ public class BasicsFreeMarkerServlet extends HttpServlet {
     // Setup directory for templates
     configuration.setDirectoryForTemplateLoading(new File("web"));
 
-    // Get the hello-world.ftl template
+    // Get the basics.ftl template
     Template template = configuration.getTemplate("basics.ftl");
 
     // Process template
