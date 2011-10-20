@@ -8,41 +8,37 @@ import java.util.HashMap;
 import java.util.Map;
 
 import freemarker.template.Configuration;
+import freemarker.template.ObjectWrapper;
+import freemarker.template.SimpleHash;
+import freemarker.template.SimpleNumber;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
+import freemarker.template.TemplateModel;
+import freemarker.template.TemplateModelException;
 
-public class ModelFreeMarkerServlet extends HttpServlet {
+public class ObjectWrapperFreeMarkerServlet extends HttpServlet {
   @Override
   protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
     Configuration configuration = new Configuration();
     configuration.setDirectoryForTemplateLoading(new File("web"));
+    configuration.setObjectWrapper(new FortyTwoObjectWrapper());
     
-    Template template = configuration.getTemplate("model.ftl");
+    Template template = configuration.getTemplate("object-wrapper.ftl");
 
     // Create the map
     Map<String, Object> root = new HashMap<String, Object>();
     root.put("string", "Hello World");
 
-    // Add a user
-    User user = new User();
-    user.setAge(35);
-    user.setMale(true);
-    user.setName("Brian Pontarelli");
-
-    Address home = new Address();
-    home.setCity("Broomfield");
-    home.setState("CO");
-    home.setStreet("1234 Main St.");
-    home.setZip("80020");
-
-    user.getAddresses().put("home", home);
-    user.setStringSequence(new CustomModelFreeMarkerServlet.StringSequence("string sequence"));
-    root.put("user", user);
-
     try {
-      template.process(root, response.getWriter());
+      template.process(new SimpleHash(root, configuration.getObjectWrapper()), response.getWriter());
     } catch (TemplateException e) {
       throw new ServletException(e);
+    }
+  }
+
+  public static class FortyTwoObjectWrapper implements ObjectWrapper {
+    public TemplateModel wrap(Object obj) throws TemplateModelException {
+      return new SimpleNumber(42);
     }
   }
 }

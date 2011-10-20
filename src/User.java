@@ -6,6 +6,7 @@ public class User {
   private int age;
   private boolean male;
   private Map<String, Address> addresses = new HashMap<String, Address>();
+  private CustomModelFreeMarkerServlet.StringSequence stringSequence;
 
   public String getName() {
     return name;
@@ -37,5 +38,13 @@ public class User {
 
   public void setAddresses(Map<String, Address> addresses) {
     this.addresses = addresses;
+  }
+
+  public CustomModelFreeMarkerServlet.StringSequence getStringSequence() {
+    return stringSequence;
+  }
+
+  public void setStringSequence(CustomModelFreeMarkerServlet.StringSequence stringSequence) {
+    this.stringSequence = stringSequence;
   }
 }
