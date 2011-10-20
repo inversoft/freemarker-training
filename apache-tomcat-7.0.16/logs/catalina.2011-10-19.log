@@ -1,0 +1,778 @@
+Oct 19, 2011 1:42:37 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 1:42:37 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 1:42:38 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:42:38 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 469 ms
+Oct 19, 2011 1:42:38 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 1:42:38 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 1:42:38 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 1:42:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 1:42:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 1:42:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 1:42:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 1:42:38 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 1:42:38 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:42:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 466 ms
+Oct 19, 2011 1:43:45 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:43:46 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 1:43:46 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:43:46 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:43:49 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 1:43:49 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 1:43:49 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:43:49 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 422 ms
+Oct 19, 2011 1:43:49 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 1:43:49 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 1:43:49 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 1:43:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 1:43:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 1:43:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 1:43:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 1:43:50 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 1:43:50 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:43:50 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 446 ms
+Oct 19, 2011 1:44:35 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:44:36 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 1:44:36 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:44:36 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:44:37 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 1:44:37 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 1:44:37 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:44:37 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 421 ms
+Oct 19, 2011 1:44:37 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 1:44:37 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 1:44:37 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 1:44:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 1:44:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 1:44:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 1:44:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 1:44:37 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 1:44:37 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:44:38 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 432 ms
+Oct 19, 2011 1:44:43 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:140)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:25 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:45:26 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 1:45:26 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:45:26 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 1:45:33 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 1:45:33 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 417 ms
+Oct 19, 2011 1:45:33 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 1:45:33 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 1:45:33 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 1:45:33 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 1:45:33 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 442 ms
+Oct 19, 2011 1:45:35 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:140)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:36 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:36 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:37 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:37 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:37 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:37 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+
+Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c_index} [on line 2, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c_index is undefined on line 2, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.Expression.getStringValue(Expression.java:118)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 1:45:56 PM freemarker.log.JDK14LoggerFactory$JDK14Logger error
+SEVERE: Expression c is undefined on line 6, column 3 in custom-model.ftl.
+
+Expression c is undefined on line 6, column 3 in custom-model.ftl.
+The problematic instruction:
+----------
+==> ${c[2]} [on line 6, column 1 in custom-model.ftl]
+----------
+
+Java backtrace for programmers:
+----------
+freemarker.core.InvalidReferenceException: Expression c is undefined on line 6, column 3 in custom-model.ftl.
+	at freemarker.core.TemplateObject.assertNonNull(TemplateObject.java:124)
+	at freemarker.core.DynamicKeyName._getAsTemplateModel(DynamicKeyName.java:75)
+	at freemarker.core.Expression.getAsTemplateModel(Expression.java:89)
+	at freemarker.core.Expression.getStringValue(Expression.java:93)
+	at freemarker.core.DollarVariable.accept(DollarVariable.java:76)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.MixedContent.accept(MixedContent.java:92)
+	at freemarker.core.Environment.visit(Environment.java:210)
+	at freemarker.core.Environment.process(Environment.java:190)
+	at freemarker.template.Template.process(Template.java:237)
+	at CustomModelFreeMarkerServlet.doGet(Unknown Source)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:621)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:722)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:304)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:240)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:164)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:462)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:164)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:403)
+	at org.apache.coyote.http11.Http11Processor.process(Http11Processor.java:301)
+	at org.apache.coyote.http11.Http11Protocol$Http11ConnectionHandler.process(Http11Protocol.java:162)
+	at org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:309)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:886)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:908)
+	at java.lang.Thread.run(Thread.java:680)
+Oct 19, 2011 2:02:50 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:02:51 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 2:02:51 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:02:51 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:02:56 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 2:02:56 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 2:02:56 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:02:56 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 438 ms
+Oct 19, 2011 2:02:56 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 2:02:56 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 2:02:56 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 2:02:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 2:02:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 2:02:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 2:02:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 2:02:57 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 2:02:57 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:02:57 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 441 ms
+Oct 19, 2011 2:04:03 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:04:04 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 2:04:04 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:04:04 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:04:07 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 2:04:07 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 2:04:07 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:04:07 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 433 ms
+Oct 19, 2011 2:04:07 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 2:04:07 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 2:04:07 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 2:04:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 2:04:07 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 2:04:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 2:04:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 2:04:08 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 2:04:08 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 2:04:08 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 426 ms
+Oct 19, 2011 3:43:19 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:43:20 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 3:43:20 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:43:20 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:43:23 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 3:43:23 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 3:43:24 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:43:24 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 417 ms
+Oct 19, 2011 3:43:24 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 3:43:24 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 3:43:24 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 3:43:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 3:43:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 3:43:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 3:43:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 3:43:24 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 3:43:24 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:43:24 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 435 ms
+Oct 19, 2011 3:47:16 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:47:17 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 3:47:17 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:47:17 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:47:20 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 3:47:21 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 3:47:21 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:47:21 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 418 ms
+Oct 19, 2011 3:47:21 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 3:47:21 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 3:47:21 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 3:47:21 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 3:47:21 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 3:47:21 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 3:47:21 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 3:47:21 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 3:47:21 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 3:47:21 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 419 ms
+Oct 19, 2011 4:22:11 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 4:22:12 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 4:22:12 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 4:22:12 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 4:22:16 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 4:22:16 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 4:22:16 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 4:22:16 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 414 ms
+Oct 19, 2011 4:22:16 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 4:22:16 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 4:22:16 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 4:22:16 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 4:22:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 4:22:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 4:22:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 4:22:17 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 4:22:17 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 4:22:17 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 436 ms
+Oct 19, 2011 6:22:07 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:22:08 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 6:22:08 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:22:08 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:22:12 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 6:22:12 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 6:22:13 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:22:13 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 419 ms
+Oct 19, 2011 6:22:13 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 6:22:13 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 6:22:13 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 6:22:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 6:22:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 6:22:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 6:22:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 6:22:13 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 6:22:13 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:22:13 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 420 ms
+Oct 19, 2011 6:23:10 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:23:11 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 6:23:11 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:23:11 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 6:23:25 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 6:23:25 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 418 ms
+Oct 19, 2011 6:23:25 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 6:23:25 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 6:23:25 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 6:23:25 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:23:25 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 426 ms
+Oct 19, 2011 6:26:06 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:26:07 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service Catalina
+Oct 19, 2011 6:26:07 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:26:07 PM org.apache.coyote.AbstractProtocol destroy
+INFO: Destroying ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:26:11 PM org.apache.catalina.startup.Catalina initDirs
+SEVERE: Cannot find specified temporary folder at /Users/bpontarelli/dev/presentations/freemarker/freemarker-training/apache-tomcat-7.0.16/temp
+Oct 19, 2011 6:26:11 PM org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: .:/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+Oct 19, 2011 6:26:11 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:26:11 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 419 ms
+Oct 19, 2011 6:26:11 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Oct 19, 2011 6:26:11 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.16
+Oct 19, 2011 6:26:11 PM org.apache.catalina.realm.JAASRealm setContainer
+INFO: Set JAAS app name Catalina
+Oct 19, 2011 6:26:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory bin
+Oct 19, 2011 6:26:11 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory conf
+Oct 19, 2011 6:26:12 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory lib
+Oct 19, 2011 6:26:12 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory logs
+Oct 19, 2011 6:26:12 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory work
+Oct 19, 2011 6:26:12 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Oct 19, 2011 6:26:12 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 439 ms

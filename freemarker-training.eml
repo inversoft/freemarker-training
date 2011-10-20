@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true">
+	<output-test url="file://$MODULE_DIR$/out/test/freemarker-training"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="servlet-api.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/apache-tomcat-7.0.16/lib/servlet-api.jar!/"/>
+	</lib>
+	<lib name="freemarker-2.3.16.jar" scope="COMPILE">
+		<srcroot url="jar://$SAVANT_REPOSITORY$/org/freemarker/freemarker/2.3.16/freemarker-2.3.16-src.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/web/WEB-INF/lib/freemarker-2.3.16.jar!/"/>
+	</lib>
+</component>

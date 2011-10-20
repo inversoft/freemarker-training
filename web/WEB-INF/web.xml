@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+         version="2.4">
+  <servlet>
+    <servlet-name>basics-freemarker-servlet</servlet-name>
+    <servlet-class>BasicsFreeMarkerServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>hello-world-freemarker-servlet</servlet-name>
+    <servlet-class>HelloWorldFreeMarkerServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>caching-freemarker-servlet</servlet-name>
+    <servlet-class>CachingFreeMarkerServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>model-freemarker-servlet</servlet-name>
+    <servlet-class>ModelFreeMarkerServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>custom-model-freemarker-servlet</servlet-name>
+    <servlet-class>CustomModelFreeMarkerServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>basics-freemarker-servlet</servlet-name>
+    <url-pattern>/</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>hello-world-freemarker-servlet</servlet-name>
+    <url-pattern>/hw/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>caching-freemarker-servlet</servlet-name>
+    <url-pattern>/cache/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>model-freemarker-servlet</servlet-name>
+    <url-pattern>/model/*</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>custom-model-freemarker-servlet</servlet-name>
+    <url-pattern>/custom-model/*</url-pattern>
+  </servlet-mapping>
+</web-app>

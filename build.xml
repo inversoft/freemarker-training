@@ -1,0 +1,17 @@
+<project name="freemarker-hello-world">
+  <target name="compile">
+    <mkdir dir="web/WEB-INF/classes"/>
+    <javac srcdir="src" destdir="web/WEB-INF/classes" debug="true">
+      <classpath>
+        <fileset dir="web/WEB-INF/lib" includes="**/*"/>
+        <fileset dir="apache-tomcat-7.0.16/lib" includes="**/*"/>
+      </classpath>
+    </javac>
+  </target>
+
+  <target name="clean">
+    <delete>
+      <fileset dir="web/WEB-INF/classes" includes="**/*"/>
+    </delete>
+  </target>
+</project>
