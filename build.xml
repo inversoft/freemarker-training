@@ -14,4 +14,20 @@
       <fileset dir="web/WEB-INF/classes" includes="**/*"/>
     </delete>
   </target>
+
+  <target name="zip">
+    <zip zipfile="freemarker-training.zip">
+      <zipfileset dir="." prefix="freemarker-training">
+        <include name="apache-tomcat-7.0.16/**/*"/>
+        <include name="src/**/*"/>
+        <include name="web/**/*"/>
+        <include name=".classpath"/>
+        <include name=".project"/>
+        <include name="build.xml"/>
+        <include name="freemarker-training.ipr"/>
+        <include name="freemarker-training.iml"/>
+        <include name="freemarker-training.eml"/>
+      </zipfileset>
+    </zip>
+  </target>
 </project>
